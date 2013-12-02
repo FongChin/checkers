@@ -1,0 +1,4 @@
+checkers
+========
+
+App Academy: Checkers
